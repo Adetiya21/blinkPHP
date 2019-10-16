@@ -7,6 +7,9 @@ handlers:
 - url: /fonts
   static_dir: assets/fonts
 
+- url: /assets/fonts
+  static_dir: assets/fonts
+
 - url: /assets/js
   static_dir: assets/js
 
