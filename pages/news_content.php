@@ -8,11 +8,11 @@
     <meta name="theme-color" content="#1a1a1a" />
 	<title>News BLACKPINK</title>
 
-	<link rel="shortcut icon" href="../assets/img/favicon.ico" type="image/x-icon" />
-	<link rel="stylesheet" href="../assets/css/style.css" type="text/css">
-	<link rel="stylesheet" href="../assets/css/style-preloader.css" type="text/css" media="all" />
-	<link rel="stylesheet" href="../assets/fonts/font-awesome.min.css" />
-	<script type="text/javascript" src="../assets/js/jquery-2.1.4.min.js"></script>
+	<link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" href="/assets/css/style.css" type="text/css">
+	<link rel="stylesheet" href="/assets/css/style-preloader.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/assets/fonts/font-awesome.min.css" />
+	<script type="text/javascript" src="/assets/js/jquery-2.1.4.min.js"></script>
 	
 </head>
 <body>
@@ -22,30 +22,30 @@
     </script>
 
     <div id="loading">
-        <img alt="logo" src="../assets/img/logo/loader.png" align="center" style="position: relative; top: 300px;" width="200"><br><br>
-        <img alt="logo" src="../assets/img/logo/loader.gif" align="center" style="position: relative; top: 300px;" width="120">
+        <img alt="logo" src="/assets/img/logo/loader.png" align="center" style="position: relative; top: 300px;" width="200"><br><br>
+        <img alt="logo" src="/assets/img/logo/loader.gif" align="center" style="position: relative; top: 300px;" width="120">
     </div> -->
 
 <!-- navbar -->
 	<header>
 		<div class="container">
-			<div class="logo"><a href="../index.php" title=""><img src="../assets/img/logo/logo45.png" alt=""></a></div>
+			<div class="logo"><a href="/index.php" title=""><img src="/assets/img/logo/logo45.png" alt=""></a></div>
 			<nav>
 			<ul>
-			  <li><a href="../index.php">HOME</a></li>
-			  <li class="active"><a href="news.php">NEWS</a></li>
-			  <li><a href="profile.php">PROFILE</a></li>
-			  <li><a href="album.php">ALBUM</a></li>
+			  <li><a href="/index.php">HOME</a></li>
+			  <li class="active"><a href="/news.php">NEWS</a></li>
+			  <li><a href="/profile.php">PROFILE</a></li>
+			  <li><a href="/album.php">ALBUM</a></li>
 			  <li class="sub-menu"><a href="#">GALLERY</a>
 			    <ul>
-			      <li><a href="picture.php">PICTURES</a></li>
-			      <li><a href="musicvideo.php">MUSIC VIDEO</a></li>
-			      <li><a href="dancepractice.php">DANCE PRACTICE</a></li>
-			      <li><a href="liveshow.php">LIVE SHOW</a></li>
+			      <li><a href="/picture.php">PICTURES</a></li>
+			      <li><a href="/musicvideo.php">MUSIC VIDEO</a></li>
+			      <li><a href="/dancepractice.php">DANCE PRACTICE</a></li>
+			      <li><a href="/liveshow.php">LIVE SHOW</a></li>
 			    </ul>
 			  </li>
-			  <li><a href="schedule.php">SCHEDULE</a></li>
-			  <li><a href="about.php">ABOUT</a></li>
+			  <li><a href="/schedule.php">SCHEDULE</a></li>
+			  <li><a href="/about.php">ABOUT</a></li>
 			</ul>
 			</nav>
 			<div class="menu-toggle">
@@ -69,7 +69,7 @@
 						<span class="cont">2018.12.25</span>
 						<br>
 							<div class="col-4 news-content"><br>
-								<img src="../assets/media/imagenes/news/n1.jpg" alt="" class="image-news-content">
+								<img src="/assets/media/imagenes/news/n1.jpg" alt="" class="image-news-content">
 							</div>
 							<div class="col-8">
 								<p>[스포츠조선=이유나 기자]  BLACKPINK proved their class on another level in front of 50 thousand audiences through their first-ever dome concert in Japan.
@@ -85,10 +85,10 @@
 								When BLACKPINK made their first greetings by stating, ‘Merry Christmas, Osaka!”, the crowd filled up the stadium with cheers once again. They yelled and roared as if they were waiting for BLACKPINK, the first-ever foreign girl group to perform in Kyocera dome, Osaka in 1 year and 4 months since debut.</p>
 							</div>
 							<div class="col-3 news-content"><br>
-								<img src="../assets/media/imagenes/news/n11.jpg" alt="" class="image-news-content">
+								<img src="/assets/media/imagenes/news/n11.jpg" alt="" class="image-news-content">
 							</div>
 							<div class="col-4 news-content"><br>
-								<img src="../assets/media/imagenes/news/n12.jpg" alt="" class="image-news-content">
+								<img src="/assets/media/imagenes/news/n12.jpg" alt="" class="image-news-content">
 							</div>
 							<div class="col-8">
 								<p>BLACKPINK repayed the fans’ passionate support by filling up the concert with performances of 120 minutes. They presented ‘WHISTLE’ in an acoustic guitar version, while presenting not only their biggest hits including ‘STAY’, ‘BOOMBAYAH’, ‘PLAYING WITH FIRE’, and ‘AS IF IT’S YOUR LAST’, but also other various repertories. LISA with the unrivaled dance skills grabbed the crowd’s attention with her special solo performance. JENNIE’s ‘SOLO’ was performed in Japan for the first time, and the crowd cheered when they performed the group’s collaborative song with Dua Lipa, ‘KISS & MAKE UP’. 
@@ -101,10 +101,10 @@
 								The fans also prepared an event. When BLACKPINK got out of the moving car to perform their encore, they held heart-shaped boards that read, ‘BLACKPINK & BLINK, Us Forever’ at once. The surprised members could not hide their deeply touched faces and shed tears for a while.</p>		
 							</div>
 							<div class="col-3 news-content"><br>
-								<img src="../assets/media/imagenes/news/n13.jpg" alt="" class="image-news-content">
+								<img src="/assets/media/imagenes/news/n13.jpg" alt="" class="image-news-content">
 							</div>
 							<div class="col-3 news-content"><br>
-								<img src="../assets/media/imagenes/news/n14.jpg" alt="" class="image-news-content">
+								<img src="/assets/media/imagenes/news/n14.jpg" alt="" class="image-news-content">
 							</div>
 							<div class="col-9">
 								<p>When all performances were over, ROSÉ revealed her overflowing thoughts by stating, “We must’ve had some lacking points, but we were happy to present our performances in front of you. We were also happy to spend Christmas eve together”. LISA shared her sincere thoughts by stating, “I made unforgettable memories. I will continue being LISA and BLACKPINK to work for this moment. I love you”. 
@@ -119,7 +119,7 @@
 								Subsequently to fabulously wrapping up their arena and dome concerts in Japan, BLACKPINK will now step towards  the world. The group will hold their first-ever world tour titled ‘BLACKPINK 2019 WORLD TOUR [IN YOUR AREA]’ starting next year on January to perform in various locations of the world. As the group has also noticed their debut in the US market after partnering with Interscope Records of Universal Music Group, the year 2019 will be a global year for BLACKPINK.</p>
 							</div>
 							<div class="col-5 news-content"><br>
-								<img src="../assets/media/imagenes/news/n15.jpg" alt="" class="image-news-content">
+								<img src="/assets/media/imagenes/news/n15.jpg" alt="" class="image-news-content">
 							</div>
 					</div>
 					<hr>
@@ -138,7 +138,7 @@
 			<div class="">
 				<div class="col-12">
 					<div class="col-6" align="center">
-						<img src="../assets/img/footer/footer.png" alt="Supported" class="ade">
+						<img src="/assets/img/footer/footer.png" alt="Supported" class="ade">
 					</div>
 					<div class="col-6">
 						<p class="right">Copyright © 2018 AdeCreative21<br>All Rights Reserved</p>

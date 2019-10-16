@@ -4,7 +4,7 @@ handlers:
 - url: /assets/css
   static_dir: assets/css
 
-- url: /assets/fonts
+- url: /fonts
   static_dir: assets/fonts
 
 - url: /assets/js
@@ -16,12 +16,81 @@ handlers:
 - url: /assets/img/(.*\.(gif|png|jpg))
   static_files: assets/img/\1
   upload: assets/img/(.*\.(gif|png|jpg))
+
+- url: /assets/media/(.*\.(gif|png|jpg))
+  static_files: assets/media/\1
+  upload: assets/media/(.*\.(gif|png|jpg))
   
-- url: /.*
+- url: /
   script: index.php
 
-- url: /pages/news
+- url: /index.*
+  script: index.php
+
+- url: /pages/news.*
   script: pages/news.php
 
-- url: /pages/news
-  script: pages/news.php
+- url: /pages/profile.*
+  script: pages/profile.php
+
+- url: /pages/about.*
+  script: pages/about.php
+
+- url: /pages/album.*
+  script: pages/album.php
+
+- url: /pages/concert.*
+  script: pages/concert.php
+
+- url: /pages/dancepratice.*
+  script: pages/dancepratice.php
+
+- url: /pages/liveshow.*
+  script: pages/liveshow.php
+
+- url: /pages/musicvideo.*
+  script: pages/musicvideo.php
+
+- url: /pages/news_content.*
+  script: pages/news_content.php
+
+- url: /pages/picture.*
+  script: pages/picture.php
+
+- url: /pages/schedule.*
+  script: pages/schedule.php
+
+- url: /news.*
+  script: news.php
+
+- url: /profile.*
+  script: profile.php
+
+- url: /about.*
+  script: about.php
+
+- url: /album.*
+  script: album.php
+
+- url: /concert.*
+  script: concert.php
+
+- url: /dancepratice.*
+  script: dancepratice.php
+
+- url: /liveshow.*
+  script: liveshow.php
+
+- url: /musicvideo.*
+  script: musicvideo.php
+
+- url: /news_content.*
+  script: news_content.php
+
+- url: /picture.*
+  script: picture.php
+
+- url: /schedule.*
+  script: schedule.php
+
+

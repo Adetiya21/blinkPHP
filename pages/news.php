@@ -8,11 +8,11 @@
     <meta name="theme-color" content="#1a1a1a" />
 	<title>News BLACKPINK</title>
 
-	<link rel="shortcut icon" href="../assets/img/favicon.ico" type="image/x-icon" />
-	<link rel="stylesheet" href="../assets/css/style.css" type="text/css">
-	<link rel="stylesheet" href="../assets/css/style-preloader.css" type="text/css" media="all" />
-	<link rel="stylesheet" href="../assets/fonts/font-awesome.min.css" />
-	<script type="text/javascript" src="../assets/js/jquery-2.1.4.min.js"></script>
+	<link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" href="/assets/css/style.css" type="text/css">
+	<link rel="stylesheet" href="/assets/css/style-preloader.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/assets/fonts/font-awesome.min.css" />
+	<script type="text/javascript" src="/assets/js/jquery-2.1.4.min.js"></script>
 	
 </head>
 <body>
@@ -22,30 +22,30 @@
     </script>
 
     <div id="loading">
-        <img alt="logo" src="../assets/img/logo/loader.png" align="center" style="position: relative; top: 300px;" width="200"><br><br>
-        <img alt="logo" src="../assets/img/logo/loader.gif" align="center" style="position: relative; top: 300px;" width="120">
+        <img alt="logo" src="/assets/img/logo/loader.png" align="center" style="position: relative; top: 300px;" width="200"><br><br>
+        <img alt="logo" src="/assets/img/logo/loader.gif" align="center" style="position: relative; top: 300px;" width="120">
     </div> -->
 
 <!-- navbar -->
 	<header>
 		<div class="container">
-			<div class="logo"><a href="../index.php" title=""><img src="../assets/img/logo/logo45.png" alt=""></a></div>
+			<div class="logo"><a href="/index.php" title=""><img src="/assets/img/logo/logo45.png" alt=""></a></div>
 			<nav>
 			<ul>
-			  <li><a href="../index.php">HOME</a></li>
-			  <li class="active"><a href="news.php">NEWS</a></li>
-			  <li><a href="profile.php">PROFILE</a></li>
-			  <li><a href="album.php">ALBUM</a></li>
+			  <li><a href="/">HOME</a></li>
+			  <li class="active"><a href="/news.php">NEWS</a></li>
+			  <li><a href="/profile.php">PROFILE</a></li>
+			  <li><a href="/album.php">ALBUM</a></li>
 			  <li class="sub-menu"><a href="#">GALLERY</a>
 			    <ul>
-			      <li><a href="picture.php">PICTURES</a></li>
-			      <li><a href="musicvideo.php">MUSIC VIDEO</a></li>
-			      <li><a href="dancepractice.php">DANCE PRACTICE</a></li>
-			      <li><a href="liveshow.php">LIVE SHOW</a></li>
+			      <li><a href="/picture.php">PICTURES</a></li>
+			      <li><a href="/musicvideo.php">MUSIC VIDEO</a></li>
+			      <li><a href="/dancepractice.php">DANCE PRACTICE</a></li>
+			      <li><a href="/liveshow.php">LIVE SHOW</a></li>
 			    </ul>
 			  </li>
-			  <li><a href="schedule.php">SCHEDULE</a></li>
-			  <li><a href="about.php">ABOUT</a></li>
+			  <li><a href="/schedule.php">SCHEDULE</a></li>
+			  <li><a href="/about.php">ABOUT</a></li>
 			</ul>
 			</nav>
 			<div class="menu-toggle">
@@ -65,13 +65,13 @@
 			<div class="container-content">
 				<div class="row container-content-content">
 					<div class="row container-content-content2">
-						<a href="news_content.php" title="BLACKPINK Shed Tears at 50 Thousand Audiences in Kyocera Dome...">
+						<a href="/news_content.php" title="BLACKPINK Shed Tears at 50 Thousand Audiences in Kyocera Dome...">
 							<div class="col-12">
 								<h2 class="heada">BLACKPINK Shed Tears at 50 Thousand Audiences in Kyocera Dome... Held Dome Concert in ‘1 Year and 4 Months’ Since Their Debut in Japan</h2>
 								<span class="block">2018.12.25</span>
 							</div>
 							<div class="col-3 news">
-								<img src="../assets/media/imagenes/news/n1.jpg" alt="" class="image-news">
+								<img src="/assets/media/imagenes/news/n1.jpg" alt="" class="image-news">
 							</div>
 							<div class="col-9">
 								<p>[스포츠조선=이유나 기자]  BLACKPINK proved their class on another level in front of 50 thousand audiences through their first-ever dome concert in Japan.<br>
@@ -82,13 +82,13 @@
 					</div>
 					<hr>
 					<div class="row container-content-content2">
-						<a href="news_content.php" title="BLACKPINK Captures the Hearts of Thai Fans! Tickets for 2 Concerts in Bangkok Sold Out in 1 Hour...">
+						<a href="/news_content.php" title="BLACKPINK Captures the Hearts of Thai Fans! Tickets for 2 Concerts in Bangkok Sold Out in 1 Hour...">
 							<div class="col-12">
 								<h2 class="heada">BLACKPINK Captures the Hearts of Thai Fans! Tickets for 2 Concerts in Bangkok Sold Out in 1 Hour...</h2>
 								<span class="block">2018.12.03</span>
 							</div>
 							<div class="col-3 news">
-								<img src="../assets/media/imagenes/news/n2.jpg" alt="" class="image-news">
+								<img src="/assets/media/imagenes/news/n2.jpg" alt="" class="image-news">
 							</div>
 							<div class="col-9">
 								<p>[스타뉴스=이정호 기자] Tickets for 2 of BLACKPINK’s concerts to be held in Bangkok were sold out in 1 hour with a heated ticketing war, making the group finalize an additional concert.<br>On December 3, 11 AM, YG Entertainment revealed a poster notifying an additional concert by BLACKPINK to be held in Bangkok through their official social media account. With the decision to hold an additional concert, BLACKPINK will be performing in Bangkok Impact Arena 3 times, for the first time as a girl group...</p>
@@ -98,13 +98,13 @@
 					</div>
 					<hr>
 					<div class="row container-content-content2">
-						<a href="news_content.php" title="BLACKPINK’s MV for ‘DDU-DU DDU-DU’ Surpasses 500 Million Views...">
+						<a href="/news_content.php" title="BLACKPINK’s MV for ‘DDU-DU DDU-DU’ Surpasses 500 Million Views...">
 							<div class="col-12">
 								<h2 class="heada">BLACKPINK’s MV for ‘DDU-DU DDU-DU’ Surpasses 500 Million Views...</h2>
 								<span class="block">2018.11.25</span>
 							</div>
 							<div class="col-3 news">
-								<img src="../assets/media/imagenes/news/n3.jpg" alt="" class="image-news">
+								<img src="/assets/media/imagenes/news/n3.jpg" alt="" class="image-news">
 							</div>
 							<div class="col-9">
 								<p>[이데일리 스타in 박미애 기자] BLACKPINK’s MV for ‘DDU-DU DDU-DU’ surpassed ‘500 million views’ in approximately 5 months, for the first time as a MV released by a K-Pop girl group.<br>The MV for ‘DDU-DU DDU-DU’ surpassed 500 million views on YouTube on November 25 at 4 PM. The MV was released on June 15 and reached the current view count in 162 days...</p>
@@ -134,7 +134,7 @@
 			<div class="">
 				<div class="col-12">
 					<div class="col-6" align="center">
-						<img src="../assets/img/footer/footer.png" alt="Supported" class="ade">
+						<img src="/assets/img/footer/footer.png" alt="Supported" class="ade">
 					</div>
 					<div class="col-6">
 						<p class="right">Copyright © 2018 AdeCreative21<br>All Rights Reserved</p>

@@ -8,12 +8,12 @@
     <meta name="theme-color" content="#1a1a1a" />
 	<title>Dance Practice BLACKPINK</title>
 
-	<link rel="shortcut icon" href="../assets/img/favicon.ico" type="image/x-icon" />
-	<link rel="stylesheet" href="../assets/css/style.css" type="text/css">
-	<link rel="stylesheet" href="../assets/css/style-preloader.css" type="text/css" media="all" />
-	<link rel="stylesheet" href="../assets/css/style-gallery.css" type="text/css">
-	<link rel="stylesheet" href="../assets/fonts/font-awesome.min.css" />
-	<script type="text/javascript" src="../assets/js/jquery-2.1.4.min.js"></script>
+	<link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" href="/assets/css/style.css" type="text/css">
+	<link rel="stylesheet" href="/assets/css/style-preloader.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/assets/css/style-gallery.css" type="text/css">
+	<link rel="stylesheet" href="/assets/fonts/font-awesome.min.css" />
+	<script type="text/javascript" src="/assets/js/jquery-2.1.4.min.js"></script>
 	
 </head>
 <body>
@@ -23,30 +23,30 @@
     </script>
 
     <div id="loading">
-        <img alt="logo" src="../assets/img/logo/loader.png" align="center" style="position: relative; top: 300px;" width="200"><br><br>
-        <img alt="logo" src="../assets/img/logo/loader.gif" align="center" style="position: relative; top: 300px;" width="120">
+        <img alt="logo" src="/assets/img/logo/loader.png" align="center" style="position: relative; top: 300px;" width="200"><br><br>
+        <img alt="logo" src="/assets/img/logo/loader.gif" align="center" style="position: relative; top: 300px;" width="120">
     </div> -->
 
 <!-- navbar -->
 	<header>
 		<div class="container">
-			<div class="logo"><a href="../index.php" title=""><img src="../assets/img/logo/logo45.png" alt=""></a></div>
+			<div class="logo"><a href="/index.php" title=""><img src="/assets/img/logo/logo45.png" alt=""></a></div>
 			<nav>
 			<ul>
-			  <li><a href="../index.php">HOME</a></li>
-			  <li><a href="news.php">NEWS</a></li>
-			  <li><a href="profile.php">PROFILE</a></li>
-			  <li><a href="album.php">ALBUM</a></li>
+			  <li><a href="/index.php">HOME</a></li>
+			  <li><a href="/news.php">NEWS</a></li>
+			  <li><a href="/profile.php">PROFILE</a></li>
+			  <li><a href="/album.php">ALBUM</a></li>
 			  <li class="sub-menu"><a href="#">GALLERY</a>
 			    <ul>
-			      <li><a href="picture.php">PICTURES</a></li>
-			      <li><a href="musicvideo.php">MUSIC VIDEO</a></li>
-			      <li><a href="dancepractice.php">DANCE PRACTICE</a></li>
-			      <li><a href="liveshow.php">LIVE SHOW</a></li>
+			      <li><a href="/picture.php">PICTURES</a></li>
+			      <li><a href="/musicvideo.php">MUSIC VIDEO</a></li>
+			      <li><a href="/dancepractice.php">DANCE PRACTICE</a></li>
+			      <li><a href="/liveshow.php">LIVE SHOW</a></li>
 			    </ul>
 			  </li>
-			  <li><a href="schedule.php">SCHEDULE</a></li>
-			  <li><a href="about.php">ABOUT</a></li>
+			  <li><a href="/schedule.php">SCHEDULE</a></li>
+			  <li><a href="/about.php">ABOUT</a></li>
 			</ul>
 			</nav>
 			<div class="menu-toggle">
@@ -133,7 +133,7 @@
 			<div class="">
 				<div class="col-12">
 					<div class="col-6" align="center">
-						<img src="../assets/img/footer/footer.png" alt="Supported" class="ade">
+						<img src="/assets/img/footer/footer.png" alt="Supported" class="ade">
 					</div>
 					<div class="col-6">
 						<p class="right">Copyright © 2018 AdeCreative21<br>All Rights Reserved</p>

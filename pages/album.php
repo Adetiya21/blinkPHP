@@ -8,12 +8,12 @@
     <meta name="theme-color" content="#1a1a1a" />
 	<title>Album BLACKPINK</title>
 
-	<link rel="shortcut icon" href="../assets/img/favicon.ico" type="image/x-icon" />
-	<link rel="stylesheet" href="../assets/css/style.css" type="text/css">
-	<link rel="stylesheet" href="../assets/css/style-player.css" type="text/css">
-	<link rel="stylesheet" href="../assets/css/style-preloader.css" type="text/css" media="all" />
-	<link rel="stylesheet" href="../assets/fonts/font-awesome.min.css" />
-	<script type="text/javascript" src="../assets/js/jquery-2.1.4.min.js"></script>
+	<link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" href="/assets/css/style.css" type="text/css">
+	<link rel="stylesheet" href="/assets/css/style-player.css" type="text/css">
+	<link rel="stylesheet" href="/assets/css/style-preloader.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/assets/fonts/font-awesome.min.css" />
+	<script type="text/javascript" src="/assets/js/jquery-2.1.4.min.js"></script>
 	
 </head>
 
@@ -24,30 +24,30 @@
     </script>
 
     <div id="loading">
-        <img alt="logo" src="../assets/img/logo/loader.png" align="center" style="position: relative; top: 300px;" width="200"><br><br>
-        <img alt="logo" src="../assets/img/logo/loader.gif" align="center" style="position: relative; top: 300px;" width="120">
+        <img alt="logo" src="/assets/img/logo/loader.png" align="center" style="position: relative; top: 300px;" width="200"><br><br>
+        <img alt="logo" src="/assets/img/logo/loader.gif" align="center" style="position: relative; top: 300px;" width="120">
     </div> -->
 
 <!-- navbar -->
 	<header>
 		<div class="container">
-			<div class="logo"><a href="../index.php" title=""><img src="../assets/img/logo/logo45.png" alt=""></a></div>
+			<div class="logo"><a href="/index.php" title=""><img src="/assets/img/logo/logo45.png" alt=""></a></div>
 			<nav>
 			<ul>
-			  <li><a href="../index.php">HOME</a></li>
-			  <li><a href="news.php">NEWS</a></li>
-			  <li><a href="profile.php">PROFILE</a></li>
-			  <li class="active"><a href="album.php">ALBUM</a></li>
+			  <li><a href="/index.php">HOME</a></li>
+			  <li><a href="/news.php">NEWS</a></li>
+			  <li><a href="/profile.php">PROFILE</a></li>
+			  <li class="/active"><a href="album.php">ALBUM</a></li>
 			  <li class="sub-menu"><a href="#">GALLERY</a>
 			    <ul>
-			      <li><a href="picture.php">PICTURES</a></li>
-			      <li><a href="musicvideo.php">MUSIC VIDEO</a></li>
-			      <li><a href="dancepractice.php">DANCE PRACTICE</a></li>
-			      <li><a href="liveshow.php">LIVE SHOW</a></li>
+			      <li><a href="/picture.php">PICTURES</a></li>
+			      <li><a href="/musicvideo.php">MUSIC VIDEO</a></li>
+			      <li><a href="/dancepractice.php">DANCE PRACTICE</a></li>
+			      <li><a href="/liveshow.php">LIVE SHOW</a></li>
 			    </ul>
 			  </li>
-			  <li><a href="schedule.php">SCHEDULE</a></li>
-			  <li><a href="about.php">ABOUT</a></li>
+			  <li><a href="/schedule.php">SCHEDULE</a></li>
+			  <li><a href="/about.php">ABOUT</a></li>
 			</ul>
 			</nav>
 			<div class="menu-toggle">
@@ -76,72 +76,72 @@
 										data-album="SQUARE UP"
 										data-artist="BLACKPINK"
 										data-title="뚜두뚜두 (Ddu-Du Ddu-Du)"
-										data-albumart="../assets/img/album/cover/squareup.jpg"
-										data-url="../assets/media/audios/(DDU-DU DDU-DU).mp3"></a>
+										data-albumart="/assets/img/album/cover/squareup.jpg"
+										data-url="/assets/media/audios/(DDU-DU DDU-DU).mp3"></a>
 
 									<a href="#" class="play"
 										data-id="2"
 										data-album="SQUARE UP"
 										data-artist="BLACKPINK"
 										data-title="Forever Young"
-										data-albumart="../assets/img/album/cover/squareup.jpg"
-										data-url="../assets/media/audios/Forever Young.mp3"></a>
+										data-albumart="/assets/img/album/cover/squareup.jpg"
+										data-url="/assets/media/audios/Forever Young.mp3"></a>
 
 									<a href="#" class="play"
 										data-id="3"
 										data-album="SQUARE UP"
 										data-artist="BLACKPINK"
 										data-title="Really"
-										data-albumart="../assets/img/album/cover/squareup.jpg"
-										data-url="../assets/media/audios/Really.mp3"></a>
+										data-albumart="/assets/img/album/cover/squareup.jpg"
+										data-url="/assets/media/audios/Really.mp3"></a>
 
 									<a href="#" class="play"
 										data-id="4"
 										data-album="SQUARE UP"
 										data-artist="BLACKPINK"
 										data-title="See U Later"
-										data-albumart="../assets/img/album/cover/squareup.jpg"
-										data-url="../assets/media/audios/See U Later.mp3"></a>
+										data-albumart="/assets/img/album/cover/squareup.jpg"
+										data-url="/assets/media/audios/See U Later.mp3"></a>
 
 									<a href="#" class="play"
 										data-id="5"
 										data-album="As If It's Your Last"
 										data-artist="BLACKPINK"
 										data-title="마지막처럼 (As If It's Your Last)"
-										data-albumart="../assets/img/album/cover/as.jpg"
-										data-url="../assets/media/audios/(AS IF ITS YOUR LAST).mp3"></a>
+										data-albumart="/assets/img/album/cover/as.jpg"
+										data-url="/assets/media/audios/(AS IF ITS YOUR LAST).mp3"></a>
 
 									<a href="#" class="play"
 										data-id="6"
 										data-album="SQUARE TWO"
 										data-artist="BLACKPINK"
 										data-title="불장난 (Playing With Fire)"
-										data-albumart="../assets/img/album/cover/squaretwo.jpg"
-										data-url="../assets/media/audios/(PLAYING WITH FIRE).mp3"></a>
+										data-albumart="/assets/img/album/cover/squaretwo.jpg"
+										data-url="/assets/media/audios/(PLAYING WITH FIRE).mp3"></a>
 
 									<a href="#" class="play"
 										data-id="7"
 										data-album="SQUARE TWO"
 										data-artist="BLACKPINK"
 										data-title="Stay"
-										data-albumart="../assets/img/album/cover/squaretwo.jpg"
-										data-url="../assets/media/audios/STAY.mp3"></a>
+										data-albumart="/assets/img/album/cover/squaretwo.jpg"
+										data-url="/assets/media/audios/STAY.mp3"></a>
 
 									<a href="#" class="play"
 										data-id="8"
 										data-album="SQUARE ONE"
 										data-artist="BLACKPINK"
 										data-title="휘파람 (Whistle)"
-										data-albumart="../assets/img/album/cover/squareone.jpg"
-										data-url="../assets/media/audios/(WHISTLE).mp3"></a>
+										data-albumart="/assets/img/album/cover/squareone.jpg"
+										data-url="/assets/media/audios/(WHISTLE).mp3"></a>
 
 									<a href="#" class="play"
 										data-id="9"
 										data-album="SQUARE ONE"
 										data-artist="BLACKPINK"
 										data-title="붐바야 (Boombayah)"
-										data-albumart="../assets/img/album/cover/squareone.jpg"
-										data-url="../assets/media/audios/(BOOMBAYAH).mp3"></a>
+										data-albumart="/assets/img/album/cover/squareone.jpg"
+										data-url="/assets/media/audios/(BOOMBAYAH).mp3"></a>
 								</div>
 								<div class="audio"></div>
 								<div class="current-info">
@@ -181,7 +181,7 @@
 									<span class="block">2018.06.15</span>
 								</div>
 								<div class="col-4">
-									<img src="../assets/img/album/squareup.jpg" width="100%">
+									<img src="/assets/img/album/squareup.jpg" width="100%">
 								</div>
 								<div class="col-8">
 									<div class="album2">
@@ -200,7 +200,7 @@
 									<span class="block">2017.06.22</span>
 								</div>
 								<div class="col-4">
-									<img src="../assets/img/album/as.png" width="100%">
+									<img src="/assets/img/album/as.png" width="100%">
 								</div>
 								<div class="col-8">
 									<div class="album2">
@@ -221,7 +221,7 @@
 									<span class="block">2016.11.01</span>
 								</div>
 								<div class="col-4">
-									<img src="../assets/img/album/squaretwo.png" style="border: 1px solid #F4A6BA; width: 100%">
+									<img src="/assets/img/album/squaretwo.png" style="border: 1px solid #F4A6BA; width: 100%">
 								</div>
 								<div class="col-8">
 									<div class="album2">
@@ -239,7 +239,7 @@
 									<span class="block">2016.08.08</span>
 								</div>
 								<div class="col-4">
-									<img src="../assets/img/album/squareone.jpg" width="100%">
+									<img src="/assets/img/album/squareone.jpg" width="100%">
 								</div>
 								<div class="col-8">
 									<div class="album2">
@@ -264,7 +264,7 @@
 			<div class="">
 				<div class="col-12">
 					<div class="col-6" align="center">
-						<img src="../assets/img/footer/footer.png" alt="Supported" class="ade">
+						<img src="/assets/img/footer/footer.png" alt="Supported" class="ade">
 					</div>
 					<div class="col-6">
 						<p class="right">Copyright © 2018 AdeCreative21<br>All Rights Reserved</p>
@@ -276,7 +276,7 @@
 
 	<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js'></script>
 	<script src='http://enscrollplugin.com/releases/enscroll-0.6.1.min.js'></script>
-    <script src="../assets/js/jquery.player.js"></script>
+    <script src="/assets/js/jquery.player.js"></script>
 	<!-- <script src="assets/js/jquery-3.3.1.min.js"></script> -->
     <script type="text/javascript">
       $(document).ready(
