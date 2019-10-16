@@ -8,12 +8,12 @@
     <meta name="theme-color" content="#1a1a1a" />
 	<title>Welcome Blink</title>
 
-	<link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon" />
-	<link rel="stylesheet" href="assets/css/style.css" type="text/css">
-	<link rel="stylesheet" href="assets/css/style-preloader.css" type="text/css" media="all" />
-	<link rel="stylesheet" href="assets/css/style-flexslider.css" type="text/css">
-	<link rel="stylesheet" href="assets/fonts/font-awesome.min.css" />
-	<script type="text/javascript" src="assets/js/jquery-2.1.4.min.js"></script>
+	<link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" href="/assets/css/style.css" type="text/css">
+	<link rel="stylesheet" href="/assets/css/style-preloader.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/assets/css/style-flexslider.css" type="text/css">
+	<link rel="stylesheet" href="/assets/fonts/font-awesome.min.css" />
+	<script type="text/javascript" src="/assets/js/jquery-2.1.4.min.js"></script>
 	
 </head>
 <body>
@@ -23,14 +23,14 @@
     </script>
 
     <div id="loading">
-        <img alt="logo" src="assets/img/logo/loader.png" align="center" style="position: relative; top: 300px;" width="200"><br><br>
-        <img alt="logo" src="assets/img/logo/loader.gif" align="center" style="position: relative; top: 300px;" width="120">
+        <img alt="logo" src="/assets/img/logo/loader.png" align="center" style="position: relative; top: 300px;" width="200"><br><br>
+        <img alt="logo" src="/assets/img/logo/loader.gif" align="center" style="position: relative; top: 300px;" width="120">
     </div>
 
 <!-- navbar -->
 	<header>
 		<div class="container">
-			<div class="logo"><a href="" title=""><img src="assets/img/logo/logo45.png" alt=""></a></div>
+			<div class="logo"><a href="" title=""><img src="/assets/img/logo/logo45.png" alt=""></a></div>
 			<nav>
 			<ul>
 			  <li class="active"><a href="">HOME</a></li>
@@ -59,19 +59,19 @@
 	<div class="container-slider flexslider">
 		<ul class="slides">
 			<li>
-				<img src="assets/img/banner/1.jpg" alt="">
+				<img src="/assets/img/banner/1.jpg" alt="">
 				<!-- <section class="flex-caption">
 					<p>LOREM IPSUM 1</p>
 				</section> -->
 			</li>
 			<li>
-				<img src="assets/img/banner/2.jpg" alt="">
+				<img src="/assets/img/banner/2.jpg" alt="">
 				<!-- <section class="flex-caption"> -->
 					<!-- <p>LOREM IPSUM 2</p> -->
 				<!-- </section> -->
 			</li>
 			<li>
-				<img src="assets/img/banner/3.jpg" alt="">
+				<img src="/assets/img/banner/3.jpg" alt="">
 				<!-- <section class="flex-caption"> -->
 					<!-- <p>LOREM IPSUM 3</p> -->
 				<!-- </section> -->
@@ -96,7 +96,7 @@
 				</div>
 				<div class="col-1"></div>
 				<div class="col-3"> <!-- bagian gambar album -->
-					<a href="pages/about.php" title="SQUARE UP"><img src="assets/img/cover.gif" alt="Album" width="100%"></a>
+					<a href="pages/about.php" title="SQUARE UP"><img src="/assets/img/cover.gif" alt="Album" width="100%"></a>
 				</div>
 				<div class="col-8">
 					<div class="container-content">
@@ -104,26 +104,26 @@
 						<div class="col-6">
 							<div class="wraper">
 								<a href="#" onclick="playDDUDU()" title="PLAY 뚜두뚜두 (DDU DU DDU DU)">
-									<img src="assets/img/head/1.png" alt="DDU-DU DDU-DU" class="cover">
+									<img src="/assets/img/head/1.png" alt="DDU-DU DDU-DU" class="cover">
 								</a>
 							</div>
 							&nbsp;
 							<div class="wraper">	
 								<a href="#" onclick="playFY()" title="PLAY FOREVER YOUNG">
-									<img src="assets/img/head/2.png" alt="Forever Young" class="cover">
+									<img src="/assets/img/head/2.png" alt="Forever Young" class="cover">
 								</a>
 							</div> 
 						</div>
 						<div class="col-6">
 							<div class="wraper">
 								<a href="#" onclick="playR()" title="PLAY REALLY">
-									<img src="assets/img/head/3.png" alt="Really" class="cover">
+									<img src="/assets/img/head/3.png" alt="Really" class="cover">
 								</a>
 							</div>
 							&nbsp;
 							<div class="wraper">
 								<a href="#" onclick="playSUL()" title="PLAY SEE U LATER">
-									<img src="assets/img/head/4.png" alt="See U Later" class="cover">
+									<img src="/assets/img/head/4.png" alt="See U Later" class="cover">
 								</a>
 							</div>
 						</div>
@@ -150,7 +150,7 @@
 	include("pages/layout/footer.php");
 ?>
 
-    <!-- <script src="assets/js/jquery-3.3.1.min.js"></script> -->
+    <!-- <script src="/assets/js/jquery-3.3.1.min.js"></script> -->
     <script type="text/javascript">
   //   	function block(){
 		// 	document.getElementById('hover').style.display = 'none';
@@ -159,19 +159,19 @@
 		// 	document.getElementById('acti').style.display = 'block';
 		// }
     	function playDDUDU(){
-			document.getElementById('mySong').src='assets/media/audios/뚜두뚜두 (DDU-DU DDU-DU).mp3';
+			document.getElementById('mySong').src='/assets/media/audios/뚜두뚜두 (DDU-DU DDU-DU).mp3';
 			document.getElementById('mySong').style.display = 'block';
 		}
 		function playFY(){
-			document.getElementById('mySong').src='assets/media/audios/Forever Young.mp3';
+			document.getElementById('mySong').src='/assets/media/audios/Forever Young.mp3';
 			document.getElementById('mySong').style.display = 'block';
 		}
 		function playR(){
-			document.getElementById('mySong').src='assets/media/audios/Really.mp3';
+			document.getElementById('mySong').src='/assets/media/audios/Really.mp3';
 			document.getElementById('mySong').style.display = 'block';
 		}
 		function playSUL(){
-			document.getElementById('mySong').src='assets/media/audios/See U Later.mp3';
+			document.getElementById('mySong').src='/assets/media/audios/See U Later.mp3';
 			document.getElementById('mySong').style.display = 'block';
 		}
 	</script>
@@ -190,7 +190,7 @@
       )
 
     </script>
-    <script src="assets/js/jquery.flexslider.js"></script>
+    <script src="/assets/js/jquery.flexslider.js"></script>
 	<script type="text/javascript" charset="utf-8">
 	  $(window).load(function() {
 	    $('.flexslider').flexslider({
