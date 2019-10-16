@@ -34,19 +34,19 @@
 			<nav>
 			<ul>
 			  <li class="active"><a href="index.php">HOME</a></li>
-			  <li><a href="pages/news.php">NEWS</a></li>
-			  <li><a href="pages/profile.php">PROFILE</a></li>
-			  <li><a href="pages/album.php">ALBUM</a></li>
+			  <li><a href="/pages/news.php">NEWS</a></li>
+			  <li><a href="/pages/profile.php">PROFILE</a></li>
+			  <li><a href="/pages/album.php">ALBUM</a></li>
 			  <li class="sub-menu"><a href="#">GALLERY</a>
 			    <ul>
-			      <li><a href="pages/picture.php">PICTURES</a></li>
-			      <li><a href="pages/musicvideo.php">MUSIC VIDEO</a></li>
-			      <li><a href="pages/dancepractice.php">DANCE PRACTICE</a></li>
-			      <li><a href="pages/liveshow.php">LIVE SHOW</a></li>
+			      <li><a href="/pages/picture.php">PICTURES</a></li>
+			      <li><a href="/pages/musicvideo.php">MUSIC VIDEO</a></li>
+			      <li><a href="/pages/dancepractice.php">DANCE PRACTICE</a></li>
+			      <li><a href="/pages/liveshow.php">LIVE SHOW</a></li>
 			    </ul>
 			  </li>
-			  <li><a href="pages/schedule.php">SCHEDULE</a></li>
-			  <li><a href="pages/about.php">ABOUT</a></li>
+			  <li><a href="/pages/schedule.php">SCHEDULE</a></li>
+			  <li><a href="/pages/about.php">ABOUT</a></li>
 			</ul>
 			</nav>
 			<div class="menu-toggle">
@@ -85,7 +85,7 @@
 			<div class="row">
 				<div class="col-1"></div>
 				<div class="col-10">
-					<a href="pages/about.php" title="Last Album"><h2 class="home">BLACKPINK mini album <br> SQUARE UP</h2></a>
+					<a href="/pages/about.php" title="Last Album"><h2 class="home">BLACKPINK mini album <br> SQUARE UP</h2></a>
 					<hr>
 				</div>
 				<div class="col-1"></div>
@@ -96,7 +96,7 @@
 				</div>
 				<div class="col-1"></div>
 				<div class="col-3"> <!-- bagian gambar album -->
-					<a href="pages/about.php" title="SQUARE UP"><img src="/assets/img/cover.gif" alt="Album" width="100%"></a>
+					<a href="/pages/about.php" title="SQUARE UP"><img src="/assets/img/cover.gif" alt="Album" width="100%"></a>
 				</div>
 				<div class="col-8">
 					<div class="container-content">
@@ -147,7 +147,7 @@
 
 <!-- footer -->
 <?php 
-	include("pages/layout/footer.php");
+	include("/pages/layout/footer.php");
 ?>
 
     <!-- <script src="/assets/js/jquery-3.3.1.min.js"></script> -->
