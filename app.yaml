@@ -61,36 +61,36 @@ handlers:
   script: pages/schedule.php
 
 - url: /news.*
-  script: news.php
+  script: pages/news.php
 
 - url: /profile.*
-  script: profile.php
+  script: pages/profile.php
 
 - url: /about.*
-  script: about.php
+  script: pages/about.php
 
 - url: /album.*
-  script: album.php
+  script: pages/album.php
 
 - url: /concert.*
-  script: concert.php
+  script: pages/concert.php
 
 - url: /dancepratice.*
-  script: dancepratice.php
+  script: pages/dancepratice.php
 
 - url: /liveshow.*
-  script: liveshow.php
+  script: pages/liveshow.php
 
 - url: /musicvideo.*
-  script: musicvideo.php
+  script: pages/musicvideo.php
 
 - url: /news_content.*
-  script: news_content.php
+  script: pages/news_content.php
 
 - url: /picture.*
-  script: picture.php
+  script: pages/picture.php
 
 - url: /schedule.*
-  script: schedule.php
+  script: pages/schedule.php
 
 
