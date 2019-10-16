@@ -19,14 +19,14 @@
 
 <body>
 <!-- Preloader -->
-    <script type="text/javascript">
+    <!-- <script type="text/javascript">
         $(window).load(function() { $("#loading").fadeOut("slow"); })
     </script>
 
     <div id="loading">
         <img alt="logo" src="../assets/img/logo/loader.png" align="center" style="position: relative; top: 300px;" width="200"><br><br>
         <img alt="logo" src="../assets/img/logo/loader.gif" align="center" style="position: relative; top: 300px;" width="120">
-    </div>
+    </div> -->
 
 <!-- navbar -->
 	<header>
