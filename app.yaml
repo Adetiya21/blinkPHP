@@ -1,12 +1,12 @@
 runtime: php55
 
 handlers:
-- url: /assets/css/
-  static_dir: /assets/css/
+- url: /assets/css
+  static_dir: assets/css
   
 - url: /assets/img/(.*\.(gif|png|jpg))
   static_files: assets/img/\1
-  upload: /assets/img/(.*\.(gif|png|jpg))
+  upload: assets/img/(.*\.(gif|png|jpg))
   
 - url: /.*
   script: index.php
